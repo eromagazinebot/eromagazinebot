@@ -1,0 +1,26 @@
+{
+  "name": "ero_magazine_scrapper",
+  "version": "0.0.1",
+  "description": "Ero magazine twitter bot",
+  "main": "app/main.js",
+  "scripts": {
+    "start": "node app/main.js",
+    "test": "mocha"
+  },
+  "author": "Santasansan",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-run": "^0.8.0",
+    "jshint-stylish": "^2.2.1",
+    "mocha": "^4.0.1"
+  },
+  "dependencies": {
+    "jsdom": "^11.5.1",
+    "jsonfile": "^4.0.0",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
+}

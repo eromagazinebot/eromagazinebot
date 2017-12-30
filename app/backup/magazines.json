@@ -1,0 +1,742 @@
+[{
+	"name": "action_pizazz",
+	"pretty": "Action Pizazz",
+	"last": {
+		"y": 2017,
+		"m": 11
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "Action Pizazz (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "action_pizazz_dx",
+	"pretty": "Action Pizazz DX",
+	"last": {
+		"y": 2017,
+		"m": 12
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "Action Pizazz DX (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "ananga_ranga",
+	"pretty": "Amanga Ranga",
+	"last": {
+		"n": 30
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Ananga Ranga Vol.\\s?(\\d{1,3})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "angel_club",
+	"pretty": "Angel Club",
+	"last": {
+		"y": 2018,
+		"m": 1
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "ANGEL Club (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "angel_club_mega",
+	"pretty": "Angel Club MEGA",
+	"last": {
+		"n": 16
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "Angel Club MEGA Vol.\\s?(\\d{1,3})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "anthurium",
+	"pretty": "COMIC Anthurium",
+	"last": {
+		"y": 2018,
+		"m": 1
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Anthurium (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "aun",
+	"pretty": "COMIC AUN",
+	"last": {
+		"y": 2017,
+		"m": 10
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC AUN (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "bangaichi",
+	"pretty": "Web Manga Bangaichi",
+	"last": {
+		"n": 15
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "Web Manga Bangaichi Vol.\\s?(\\d{1,3})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "bavel",
+	"pretty": "COMIC BAVEL",
+	"last": {
+		"y": 2018,
+		"m": 1
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC BAVEL (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "bavel_special",
+	"pretty": "COMIC BABEL SPECIAL COLLECTION",
+	"last": {
+		"n": 4
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC BAVEL SPECIAL COLLECTION VOL.\\s?(\\d{1,3})(?: \\[(?:Digital|DL版)\\])?"
+		}
+	}
+},
+{
+	"name": "bananamate",
+	"pretty": "BANANAMATE",
+	"last": {
+		"n": 24
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "BANANAMATE Vol.\\s?(\\d{1,3})(?: \\[(?:Digital|DL版)\\])?"
+		}
+	}
+},
+{
+	"name": "cyberia",
+	"pretty": "Magazine Cyberia",
+	"last": {
+		"n": 105
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "Magazine Cyberia Vol.\\s?(\\d+)(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "drap",
+	"pretty": "drap",
+	"last": {
+		"y": 2007,
+		"m": 8
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "drap (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "exe",
+	"pretty": "COMIC ExE",
+	"last": {
+		"n": 10
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC ExE (\\d+)(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "europa",
+	"pretty": "COMIC Europa",
+	"last": {
+		"n": 15
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Europa Vol.\\s?(\\d+)(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "gaticomi",
+	"pretty": "Action Gaticomi",
+	"last": {
+		"n": 80
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "Gaticomi Vol.\\s?(\\d+)(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "girls_for_m",
+	"pretty": "Girls forM",
+	"last": {
+		"n": 15
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "Girls forM Vol.\\s?(\\d+)(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "grape",
+	"pretty": "COMIC Grape",
+	"last": {
+		"n": 50
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Grape Vol.\\s?(\\d+)(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "hanaman",
+	"pretty": "COMIC HANA-MAN",
+	"last": {
+		"y": 2017,
+		"m": 12
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC HANA-MAN (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "hotmilk",
+	"pretty": "COMIC HOTMILK",
+	"last": {
+		"y": 2018,
+		"m": 1
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC HOTMILK (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "hotmilk_koime",
+	"pretty": "COMMIC HOTMiLK Koime",
+	"last": {
+		"n": 7
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC HOTMiLK Koime Vol.\\s?(\\d+)(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "juicy",
+	"pretty": "Juicy",
+	"last": {
+		"y": 2017,
+		"m": 4
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "Juicy No.\\s?\\d+ (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "kairakuten",
+	"pretty": "COMIC Kairakuten",
+	"last": {
+		"y": 2018,
+		"m": 1
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Kairakuten (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "kairakuten_beast",
+	"pretty": "Commic Kairakuten BEAST",
+	"last": {
+		"y": 2018,
+		"m": 1
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Kairakuten BEAST (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "koh",
+	"pretty": "COMIC Koh",
+	"last": {
+		"y": 2018,
+		"m": 1
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Koh (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "kuriberon",
+	"pretty": "COMIC KURiBERON",
+	"last": {
+		"y": 2017,
+		"m": 12
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC KURiBERON (\\d{4})-(\\d{1,2}) Vol.\\s?\\d{1,3}(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "kuriberon_duma",
+	"pretty": "COMIC KURiBERON DUMA",
+	"last": {
+		"y": 2017,
+		"m": 11
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "comic KURiBERON DUMA (\\d{4})-(\\d{1,2}) Vol.\\s?\\d{1,3}(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "little_girl_strike",
+	"pretty": "Little Girl Strike",
+	"last": {
+		"n": 5
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "(?:\\[Anthology\\] )?Little Girl Strike Vol.\\s?(\\d{1,3})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "lq",
+	"pretty": "LQ -Little Queen-",
+	"last": {
+		"n": 18
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "(?:\\[Anthology\\] )?LQ -Little Queen- Vol.\\s?(\\d{1,3})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "lo",
+	"pretty": "COMIC LO",
+	"last": {
+		"y": 2018,
+		"m": 1
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC LO (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "magnum",
+	"pretty": "COMIC Magnum",
+	"last": {
+		"n": 104
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Magnum Vol.\\s?(\\d{1,3})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "magnum_x",
+	"pretty": "COMIC Magnum X",
+	"last": {
+		"n": 26
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Magnum X Vol.\\s?(\\d{1,3})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "masyo",
+	"pretty": "COMIC Masyo",
+	"last": {
+		"y": 2018,
+		"m": 1
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Masyo (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "megastore_alpha",
+	"pretty": "COMIC Megastore Alpha",
+	"last": {
+		"y": 2017,
+		"m": 11
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Megastore Alpha (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "mate_legend",
+	"pretty": "COMIC Mate Legend",
+	"last": {
+		"y": 2017,
+		"m": 12
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Mate Legend Vol.\\s?\\d{1,3} (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "megastore",
+	"pretty": "COMIC Megastore",
+	"last": {
+		"n": 2017,
+		"m": 11
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Megastore (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "megastore_deep",
+	"pretty": "COMIC Megastore DEEP",
+	"last": {
+		"n": 12
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Megastore DEEP Vol.\\s?(\\d+)(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "megastore_h",
+	"pretty": "COMIC Megastore H",
+	"last": {
+		"n": 2017,
+		"m": 11
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Megastore H (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "mens_gold",
+	"pretty": "Men's Gold",
+	"last": {
+		"y": 2017,
+		"m": 11
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "Men's Gold (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "milf",
+	"pretty": "COMIC MILF",
+	"last": {
+		"y": 2017,
+		"m": 12
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC MILF (\\d{4})-(\\d{1,2}) Vol. \\d{1,3}(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "monthly_vitaman",
+	"pretty": "Monthly Vitaman",
+	"last": {
+		"y": 2018,
+		"m": 1
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "Monthly Vitaman (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "mugen_tensei",
+	"pretty": "COMIC Mugen Tensei",
+	"last": {
+		"y": 2017,
+		"m": 12
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Mugen Tensei (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "mujin",
+	"pretty": "COMIC MUJIN",
+	"last": {
+		"y": 2017,
+		"m": 12
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC MUJIN (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "namaiki",
+	"pretty": "Namaiki!",
+	"last": {
+		"y": 2018,
+		"m": 1
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "Namaiki! (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "penguin_club",
+	"pretty": "COMIC Penguin Club",
+	"last": {
+		"y": 2018,
+		"m": 1
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Penguin Club (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "penguin_club_sanzokuban",
+	"pretty": "COMIC Penguin Club Sanzokuban",
+	"last": {
+		"y": 2018,
+		"m": 1
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Penguin Club Sanzokuban (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "saseco",
+	"pretty": "COMIC saseco",
+	"last": {
+		"n": 3
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Saseco Vol.\\s?(\\d{1,3})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "shingeki",
+	"pretty": "COMIC Shingeki",
+	"last": {
+		"y": 2017,
+		"m": 12
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Shingeki (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "shitsurakuten",
+	"pretty": "COMIC Shitsurakuten",
+	"last": {
+		"y": 2018,
+		"m": 1
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Shitsurakuten (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "sigma",
+	"pretty": "COMIC Sigma",
+	"last": {
+		"y": 2017,
+		"m": 1
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Sigma (\\d{4})-(\\d{1,2})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "toutetsu",
+	"pretty": "Web Comic Toutetsu",
+	"last": {
+		"n": 24
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "Web Comic Toutetsu Vol.\\s?(\\d{1,3})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "unreal",
+	"pretty": "COMIC Unreal",
+	"last": {
+		"y": 2017,
+		"m": 12
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC Unreal (\\d{4})-(\\d{1,2}) Vol.\\s?\\d{1,3}(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "unreal_sekka_end",
+	"pretty": "Bessatsu Comic Unreal Sekka END ~Zetsubou no Naka de Sekizou e to Kaerareru Shoujo-tachi~ Vol 1",
+	"last": {
+		"n": 1
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "(?:\\[Anthology\\] )?Bessatsu Comic Unreal Sekka END ~Zetsubou no Naka de Sekizou e to Kaerareru Shoujo-tachi~ Vol.\\s?(\\d{1,3})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "x_eros",
+	"pretty": "COMIC X-EROS",
+	"last": {
+		"n": 61
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "COMIC X-EROS #(\\d{1,3})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "web_bazooka",
+	"pretty": "WEB Bazooka",
+	"last": {
+		"n": 31
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "WEB Bazooka Vol.\\s?(\\d{1,3})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "web_okusan",
+	"pretty": "Web Haishin Gekkan Tonari no Kininaru Oku-san",
+	"last": {
+		"n": 8
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "Web Haishin Gekkan Tonari no Kininaru Oku-san Vol.\\s?(\\d{1,3})(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "2d_dream_magazine",
+	"pretty": "2D Dream Magazine",
+	"last": {
+		"y": 2018,
+		"m": 2
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "2D Dream Magazine (\\d{4})-(\\d{1,2}) Vol.\\s?\\d{1,3}(?: \\[Digital\\])?"
+		}
+	}
+},
+{
+	"name": "manga_tsumo",
+	"pretty": "漫画人妻快楽庵",
+	"last": {
+		"n": 11
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "漫画人妻快楽庵 Vol.\\s?(\\d{1,3})(?: \\[(?:Digital|DL版)\\])?"
+		}
+	}
+},
+{
+	"name": "zetsubou_enzou",
+	"pretty": "別冊コミックアンリアル 石化END ～絶望の中で石像へと変えられる少女たち～",
+	"last": {
+		"n": 1
+	},
+	"search": {
+		"ehentai": {
+			"romaji": "(?:\\[(?:Anthology|アンソロジー)\\] )?別冊コミックアンリアル 石化END ～絶望の中で石像へと変えられる少女たち～(?: デジタル版)? Vol.\\s?(\\d{1,3})(?: \\[(?:Digital|DL版)\\])?"
+		}
+	}
+}]
